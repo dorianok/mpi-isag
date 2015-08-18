@@ -1,0 +1,2 @@
+Our project I.S.A.G. is a game which encourages people to play a sporty game while they are waiting for something on public places. As an I.S.A.G.-player you are able to shoot enemies like chicken, aliens.
+Furthermore, you are able to use some special features like jumping which is a hard earthquake to your enemies.
